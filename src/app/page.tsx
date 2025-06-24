@@ -31,7 +31,7 @@ export default function Home() {
           Graph Path Visualizer
         </h1>
         <p className="text-center text-gray-600 mb-8">
-          Find the shortest path between nodes using Dijkstra's algorithm
+          Find the shortest path between nodes using Dijkstra algorithm
         </p>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
